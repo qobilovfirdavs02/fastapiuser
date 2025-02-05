@@ -8,3 +8,4 @@ python-jose
 pymysql
 Pillow
 python-multipart
+psycopg2-binary
